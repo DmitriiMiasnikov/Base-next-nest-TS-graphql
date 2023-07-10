@@ -1,0 +1,1 @@
+# Base-next-nest-TS-graphql
